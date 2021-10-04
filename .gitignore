@@ -1,3 +1,8 @@
+/.vscode
+
+#-------------------------
+# backend .gitingore
+#-------------------------
 # Logs
 /backend/logs
 /backend/npm-debug.log*
